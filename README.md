@@ -22,9 +22,7 @@ This repository contains the source code for PT XYZ Multifinance's scalable and 
 ├── customer-service/  # Manages customer-related operations
 ├── transaction-service/ # Handles financial transactions
 ├── credit-service/    # Manages credit limits
-├── gateway-service/   # API Gateway for routing requests
-├── shared-libs/       # Shared libraries and utilities
-└── docker/            # Docker configurations for the project
+└── config/            # configurations for the project
 ```
 Each folder contains the necessary code and configurations for the respective microservice.
 
